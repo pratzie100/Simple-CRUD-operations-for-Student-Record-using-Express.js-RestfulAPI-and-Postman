@@ -1,4 +1,4 @@
-<b>Execution commands:
+<b>Execution commands:</b>
 
 npm init -y (for package.json)
 npm install express joi (for node_modules folder and package-lock.json)
