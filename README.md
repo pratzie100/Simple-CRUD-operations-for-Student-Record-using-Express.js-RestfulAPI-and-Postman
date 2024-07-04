@@ -45,3 +45,4 @@ URL: http://localhost:3000/api/records/{id}<br>
 Description: Deletes a genre by its ID.<br>
 Response: The deleted genre object or 404 if not found.<br>
 <br>
+<img width="960" alt="2024-07-04 (2)" src="https://github.com/pratzie100/Simple-CRUD-operations-for-Student-Record-using-Express.js-RestfulAPI-and-Postman/assets/135763048/de67f64c-fcfa-4f19-b38f-eb9cde13ee0d">
